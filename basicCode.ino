@@ -27,7 +27,7 @@
 // Pin constants
 
 // Button
-//const int buttonPin = 2;
+const int buttonPin = 2;
 
 // Line detectors
 const int linePin = 4;
